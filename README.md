@@ -1,4 +1,5 @@
 design files for the zombie backpack. a wiring interface for the zombieverter vcu.
+https://openinverter.org/wiki/ZombieVerter_VCU
 
 wiki page https://openinverter.org/wiki/Zombie_Backpack
 
